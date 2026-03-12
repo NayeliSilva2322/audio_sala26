@@ -1,4 +1,4 @@
-# Technical Audit and Pipeline Architecture: Marine Acoustic Monitoring - Galápagos
+# Pipeline Architecture: Marine Acoustic Monitoring - Galápagos
 
 ## 1. Project Overview
 This repository contains the processing pipeline for analyzing the underwater soundscape in the Bay of San Cristóbal, Galápagos. The objective is to process unlabeled hydrophone recordings to detect biological events (cetacean vocalizations, invertebrates, fish) in the presence of anthropogenic noise (boat engines).
